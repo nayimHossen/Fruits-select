@@ -1,0 +1,82 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "Bananas",
+      "image": "https://cdn.shopify.com/s/files/1/0076/4339/8233/products/thai-banana-nam-wa.jpg?v=1564379493",
+      "price": 200,
+      "area": "Mymensingh"
+    },
+    {
+      "id": 2,
+      "name": "Orange",
+      "image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/17F1F/production/_110697089_p06p9bdw.jpg",
+      "price": 340,
+      "area": "Dhaka"
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "image": "https://d1gn39i7bbaawp.cloudfront.net/images/detailed/3109/71TIrDaZNnL._SL1500_.jpg?t=1618728058",
+      "price": 250,
+      "area": "Kasmir"
+    },
+    {
+      "id": 4,
+      "name": "Pineapple",
+      "image": "https://st.depositphotos.com/1642482/2523/i/950/depositphotos_25238931-stock-photo-pineapple.jpg",
+      "price": 80,
+      "area": "Mymensingh"
+    },
+    {
+      "id": 5,
+      "name": "Dragon",
+      "image": "https://produits.bienmanger.com/38126-0w470h470_Red_Dragon_Fruit.jpg",
+      "price": 380,
+      "area": "Nilfamary"
+    },
+    {
+      "id": 6,
+      "name": "Mango",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6JFLzryJl5otS1A76ouS6q8ew1gVEjTvKTMUAdK825SO9fWBYkCf0pGlKD6c5s_1q5yI&usqp=CAU",
+      "price": 150,
+      "area": "Rajshahi"
+    },
+    {
+      "id": 7,
+      "name": "Strawberry",
+      "image": "https://foodandwine.ie/uploads/article/2019/5/2444/article_strawberries_GettyImages-984268058_main.jpg?t=1559590806",
+      "price": 500,
+      "area": "India"
+    },
+    {
+      "id": 8,
+      "name": "Carambola",
+      "image": "http://cdn.shopify.com/s/files/1/0251/6664/3277/articles/e-star-fruit_2x_5c11edb2-e186-47da-a3ac-005146072866.png?v=1598381851",
+      "price": 45,
+      "area": "Pakistan"
+    },
+    {
+      "id": 9,
+      "name": "Guava",
+      "image": "https://sc04.alicdn.com/kf/U1f7679b8a472456e8798d7a2c22a57e1v.jpg",
+      "price": 80,
+      "area": "Rajshahi"
+    },
+    {
+      "id": 10,
+      "name": "Lychee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVB2G3h8L3CvbGreD8ABZSKhw0qlnfMt_IQSp6BQjr4rW4fBO7oqqeaGbTCkz-Tsl0ohY&usqp=CAU",
+      "price": 900,
+      "area": "Rajshahi"
+    },
+    {
+      "id": 11,
+      "name": "Watermelon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Watermelons.jpg/800px-Watermelons.jpg",
+      "price": 1110,
+      "area": "Rajshahi"
+    }
+
+  ]

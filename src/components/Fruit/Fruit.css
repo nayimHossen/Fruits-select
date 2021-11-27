@@ -1,0 +1,9 @@
+.fruit-container{
+    display: flex;
+}
+
+.fruit-img img{
+    margin-left: 70px;
+    width: 300px;
+    height: 200px;
+}

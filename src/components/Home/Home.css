@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+}
+.div-1{
+    width: 80%;
+}
+.div-2{
+    width: 20%;
+}
